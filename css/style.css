@@ -105,6 +105,12 @@
     color: var(--primary);
 }
 
+.banner-size {
+    height: 85vh;
+    object-fit: cover;
+    width: 100%;
+}
+
 @media (max-width: 991.98px) {
     .navbar-light .navbar-nav .nav-link  {
         margin-right: 0;
